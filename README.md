@@ -2,5 +2,3 @@ The purpose of this repository is to enable a relatively simple implementation o
 
 
 As a disclaimer, this repository has no claim to completeness and was only created quickly and easily for a specific project. Nevertheless, since it might help someone else who wants to realize something similar I would like to share my work. 
-
-Translated with DeepL.com (free version)
